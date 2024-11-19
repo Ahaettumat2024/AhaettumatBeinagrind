@@ -1,5 +1,5 @@
 protobuf~=3.19.0
 pandas
-streamlit
+streamlit >= 1.40.0
 matplotlib
 numpy
