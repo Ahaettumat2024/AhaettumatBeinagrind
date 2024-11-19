@@ -1,0 +1,5 @@
+protobuf~=3.19.0
+pandas
+streamlit
+matplotlib
+numpy
