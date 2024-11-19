@@ -19,7 +19,7 @@ if 'eldi' not in st.session_state:
 if 'settings' not in st.session_state:
     st.session_state['settings'] = getSetings()
 
-st.header('Áhættumat 2024')
+st.header('Áhættumat beinagrind')
 tab1, tab2, tab3, tab4 = st.tabs(['Laxastofn', 'Strok', 'Dreifing', 'Niðurstaða'])
 
 
